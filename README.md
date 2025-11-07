@@ -9,7 +9,6 @@ I love solving problems, optimizing performance, and designing cloud-native appl
 
 ## 🧠 About Me  
 - 🎓 B.Tech in Information Technology from **NIT Kurukshetra (2017–2021)**  
-- 💡 Transitioned from UPSC prep to IT with a deep passion for **engineering scalable systems**  
 - 🔥 Currently working on **Cloud Native Projects**, **API Gateways**, and **Automation Pipelines**  
 - 🎯 Goal: To master **Cloud Engineering + Backend Scalability**  
 
