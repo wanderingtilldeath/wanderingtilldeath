@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/wanderingtilldeath">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems;API+gateways+%C2%B7+search+%C2%B7+crawlers+that+survive+crashes;AWS+Certified+Developer+%E2%80%93+Associate;Currently+going+deep+on+cloud+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BFE279&center=true&vCenter=true&width=850&lines=Engineering+scalable%2C+cloud-native+backend+systems;API+gateways+%C2%B7+distributed+search+%C2%B7+fault-tolerant+crawlers;AWS+Certified+Developer+%E2%80%93+Associate;Deepening+expertise+in+cloud+engineering+at+scale" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
