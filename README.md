@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<sub>Earlier work: [Multi-Threaded-Web-Server](https://github.com/wanderingtilldeath/Multi-Threaded-Web-Server) (1000+ concurrent users/s) · [ChatBot](https://github.com/wanderingtilldeath/ChatBot) (GraphQL + LLM APIs) · [aws-image-pipeline](https://github.com/wanderingtilldeath/aws-image-pipeline)</sub>
+Earlier work: [Multi-Threaded-Web-Server](https://github.com/wanderingtilldeath/Multi-Threaded-Web-Server) (1000+ concurrent users/s) · [ChatBot](https://github.com/wanderingtilldeath/ChatBot) (GraphQL + LLM APIs) · [aws-image-pipeline](https://github.com/wanderingtilldeath/aws-image-pipeline)
 
 <br/>
 
